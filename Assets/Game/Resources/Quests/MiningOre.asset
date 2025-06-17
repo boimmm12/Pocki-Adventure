@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fed6aa5a401a8349b687d1d1687f4a0, type: 3}
+  m_Name: MiningOre
+  m_EditorClassIdentifier: 
+  name: Mining Ore
+  description: aaaaaaaaaaaaaaaaaaaaaaaa
+  startDialogue:
+    lines: []
+  inProgressDialogue:
+    lines: []
+  completedDialogue:
+    lines: []
+  startItem: {fileID: 0}
+  startItemCount: 1
+  requiredItems:
+  - {fileID: 11400000, guid: 28ebc99b6aef28c428d62c8e581e7d72, type: 2}
+  requiredItemCounts: 01000000
+  rewardItem: {fileID: 11400000, guid: 64d94c46012437849a77662d2ad00d20, type: 2}

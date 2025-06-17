@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: Sphynx2
+  m_EditorClassIdentifier: 
+  name: Susan
+  description: 
+  frontSprite: {fileID: -6474431339507240698, guid: 43bbaac3f8529f64fafedcb1dd4d6b39, type: 3}
+  backSprite: {fileID: 3486405678586988594, guid: b0185c20562f98347ae7a82876b12477, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 70
+  attack: 85
+  defense: 65
+  spAttack: 105
+  spDefense: 85
+  speed: 120
+  expYield: 208
+  growthRate: 2
+  catchRate: 45
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: a45027c9f95b43246aa7d06894144b6e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 914f878e72fb69541a6295da482105c2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 32d3632fdd8b9ff4db7e607f3513b790, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 391a36c226fbc9c4c8301e5753621fa0, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: a4dea5282e1907447afd0a0046794b1b, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: b06bbd2189166754a9805e917ffb0e38, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: cdb906eb222363c4eab72e34ce38d340, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: fc8913d49dc7313459f2aa6625bbc286, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 3d8d497a7689dd44ebb884b8d370dbd0, type: 2}
+    level: 17
+  learnableByItems:
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  - {fileID: 11400000, guid: 1f57225f05d64a9458af4306e6d0edf2, type: 2}
+  - {fileID: 11400000, guid: 6e5afe480fe31e54f890f9b3cd94dee9, type: 2}
+  - {fileID: 11400000, guid: c054c11d6d4117b45bc18ddf815072ee, type: 2}
+  evolutions: []

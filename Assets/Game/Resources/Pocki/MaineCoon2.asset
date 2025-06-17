@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: MaineCoon2
+  m_EditorClassIdentifier: 
+  name: Raigorn
+  description: 
+  frontSprite: {fileID: -1422988358614698559, guid: bdb8d7e581fe63148bd36bb54004f704, type: 3}
+  backSprite: {fileID: -4562111726678414090, guid: 2b76a1aeb662d5d4d85c45d0ce160fe2, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 83
+  attack: 106
+  defense: 65
+  spAttack: 86
+  spDefense: 65
+  speed: 85
+  expYield: 181
+  growthRate: 1
+  catchRate: 75
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 00f2a6f66a43d7b44aca4a19bcb6ef7d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 250da923c05abdb48b227a8426f1c0bf, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b3aed7d3505298a4cba68923eaea0be8, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: a3823169f1c34424086178908d8e3088, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: 219a4bb2579becd419468240b7831f60, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 86124aca73d5e7345a6bee200f0cafc2, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 33c68b703eecb2d478389ed27473967b, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: d2073facfc304b2419fd55ce9d44117e, type: 2}
+    level: 15
+  learnableByItems:
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  - {fileID: 11400000, guid: ecf8613985413524ebd0a5289d14821d, type: 2}
+  - {fileID: 11400000, guid: 85922065a18a89c4982036be743490a6, type: 2}
+  evolutions: []

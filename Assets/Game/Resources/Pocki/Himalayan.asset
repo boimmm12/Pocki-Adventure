@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: Himalayan
+  m_EditorClassIdentifier: 
+  name: Rokun
+  description: 
+  frontSprite: {fileID: -7190638829995697065, guid: 584a4c52314482347a033612bba0d913, type: 3}
+  backSprite: {fileID: -9014636154622440782, guid: b03981515bf51764fbe3bbb0d0be0f6b, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 60
+  attack: 90
+  defense: 140
+  spAttack: 50
+  spDefense: 50
+  speed: 40
+  expYield: 152
+  growthRate: 3
+  catchRate: 45
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: dfe5cc3eb157b454e9c96523bec31f5b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 47cefe9444217f040a807bcf86e00d09, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b66cf91142580a64fba8f2e008234979, type: 2}
+    level: 4
+  - moveBase: {fileID: 11400000, guid: 35a73caaec4d0bc4cb2345c76adc2794, type: 2}
+    level: 7
+  - moveBase: {fileID: 11400000, guid: a4dea5282e1907447afd0a0046794b1b, type: 2}
+    level: 10
+  - moveBase: {fileID: 11400000, guid: 9896569f0e5c90a44859fa600341662d, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: ef78e723f70a8cb419de0af32d245cb5, type: 2}
+    level: 14
+  - moveBase: {fileID: 11400000, guid: 63ac2a6db9f172848896717602fbd189, type: 2}
+    level: 14
+  - moveBase: {fileID: 11400000, guid: 528ba71021358654ea31b19cf1252c0d, type: 2}
+    level: 17
+  learnableByItems:
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  - {fileID: 11400000, guid: 1675381d8ff691e4ab4f3cdfefca8a14, type: 2}
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: ff72a27c2b1a3314eba05778718511ac, type: 2}
+    requiredLevel: 16
+    requiredItem: {fileID: 11400000, guid: 3da7544e158e3544989724077b2d62cd, type: 2}
+    evolutionType: 2
+    dominantTypeForEvolution: 0

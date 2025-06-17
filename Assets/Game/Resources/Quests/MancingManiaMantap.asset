@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fed6aa5a401a8349b687d1d1687f4a0, type: 3}
+  m_Name: MancingManiaMantap
+  m_EditorClassIdentifier: 
+  name: Mancing Mania Mantap
+  description: 
+  startDialogue:
+    lines: []
+  inProgressDialogue:
+    lines: []
+  completedDialogue:
+    lines:
+    - Hello there
+    - I know you love to fishing
+    - I can give you my fishing rod
+    - So you can sell the fish after
+    - Sell only to me, not that big guy around the town
+  startItem: {fileID: 0}
+  startItemCount: 1
+  requiredItems: []
+  requiredItemCounts: 
+  rewardItems:
+  - {fileID: 11400000, guid: e19e723c09065fe479fc8ed26edd065b, type: 2}
+  - {fileID: 11400000, guid: 8377b8bb4f6d38e43b48b3f6887ffe76, type: 2}
+  rewardItemCounts: 010000000a000000
+  rewardMoney: 0
+  rewardPokemonChoices: []
+  rewardPokemonLevel: 5

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 516548ea6b4364d479a4954394e68c89, type: 3}
+  m_Name: NakedB
+  m_EditorClassIdentifier: 
+  idleDown: {fileID: -6779683932296141039, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  presetname: Beyond Crazy
+  specialNote: A..a..are you sure...
+  specialErrorBlank: Suspect here, need backup, identify yourself!
+  specialErrorLong: i think he is those people with more 12 word in his name
+  walkDownSprites:
+  - {fileID: -6779683932296141039, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: -8961725705671254795, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: 85704712035246707, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: -8792228912813582622, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  walkUpSprites:
+  - {fileID: 2850283122532587014, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: 3537440132158078726, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: -1104146777428828288, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: -9067815399223456527, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  walkRightSprites:
+  - {fileID: -7392176254870029855, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: -9061075186636837401, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: 6394552080147364942, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: -6337557844115529371, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  walkLeftSprites:
+  - {fileID: -6741551433274171313, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: 5360208204067673735, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: 74632690095786725, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  - {fileID: 7186148425552998724, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}
+  battleSprite: {fileID: -6779683932296141039, guid: 0279b1b7f3cf7924d8d2750b1fe9a38e, type: 3}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: Domestic3
+  m_EditorClassIdentifier: 
+  name: Enel
+  description: 
+  frontSprite: {fileID: -1895154001609851847, guid: c1494a6db392e804a9f0c2b13396bc2c, type: 3}
+  backSprite: {fileID: 344288619008839934, guid: 76d6ca949e25149468e711e3e2c59bc5, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 65
+  attack: 65
+  defense: 60
+  spAttack: 110
+  spDefense: 95
+  speed: 130
+  expYield: 197
+  growthRate: 1
+  catchRate: 45
+  learnableMoves: []
+  learnableByItems:
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  evolutions: []

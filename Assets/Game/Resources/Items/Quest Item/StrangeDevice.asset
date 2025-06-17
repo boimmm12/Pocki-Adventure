@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9b115803f18a294796bca28a45084e8, type: 3}
+  m_Name: StrangeDevice
+  m_EditorClassIdentifier: 
+  name: Strange Device
+  description: You can see other side of the world, use the device while you exploring
+  questDescription: Try this device, and point it to kucing
+  icon: {fileID: 6655547691314623051, guid: b440fe64d8ff3674cb41d8b2d99cf8e4, type: 3}
+  price: 0
+  isSellable: 0

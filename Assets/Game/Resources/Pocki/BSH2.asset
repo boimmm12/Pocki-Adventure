@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: BSH2
+  m_EditorClassIdentifier: 
+  name: "Stoneh\xF3l"
+  description: 
+  frontSprite: {fileID: 540090007159824826, guid: f2573750a113ff849b6ea848d6eeb4ff, type: 3}
+  backSprite: {fileID: -3390453131407242075, guid: 976ca5c87119eba4781d4bf407d20d76, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 90
+  attack: 70
+  defense: 80
+  spAttack: 70
+  spDefense: 95
+  speed: 70
+  expYield: 176
+  growthRate: 1
+  catchRate: 75
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c1ed99e65b9951e4e875f2a04183e94d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 33cf94e9673f40945956284db3430d19, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2de81a29e1d09b541800ae464e20916b, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 46cdbf147a9b8e843b87f6e6352d53da, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: c05f7432ba9ea4141af63e6779c5f1ab, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 33c68b703eecb2d478389ed27473967b, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 7b8a44507ccb2a84988f2d93b88c0c58, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 2d1666b073505b44c9b8a653abc8e245, type: 2}
+    level: 15
+  learnableByItems:
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  - {fileID: 11400000, guid: 048962f7b5b0a84429da273f30729d50, type: 2}
+  - {fileID: 11400000, guid: 1675381d8ff691e4ab4f3cdfefca8a14, type: 2}
+  evolutions: []

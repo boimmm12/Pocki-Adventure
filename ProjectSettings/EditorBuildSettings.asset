@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bfaca50dfa9176c42bd3d0c8ca41346b
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: a1552cf01ae662c4e937d3b48d0361bd
+  - enabled: 1
+    path: Assets/Scenes/Base.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/House1.unity
+    guid: c6ad8671f2d644b4ebdaa7a581bfe677
+  - enabled: 1
+    path: Assets/Scenes/Route1.unity
+    guid: 5fe860ed81fc9864d9308b5fe1f9e21d
+  - enabled: 1
+    path: Assets/Scenes/Town1.unity
+    guid: 220ed519fb183fa4da5995bc8e86d54d
+  - enabled: 1
+    path: Assets/Scenes/Hospital.unity
+    guid: e962521eca05d684f8ff45d28f017039
+  - enabled: 1
+    path: Assets/Scenes/RouteMainA.unity
+    guid: 35a101c087f55244ebd730d161e814ff
+  - enabled: 1
+    path: Assets/Scenes/RouteMainB.unity
+    guid: 184f9496a77b67f4b9a7b83944d249fc
+  - enabled: 1
+    path: Assets/Scenes/Route3.unity
+    guid: 67d8d5817bd858944b0d43a522d895ec
+  - enabled: 1
+    path: Assets/Scenes/HospitalTown1B.unity
+    guid: 8449030e71925ba4bad9353d8d2a0599
+  - enabled: 1
+    path: Assets/Scenes/Town1B.unity
+    guid: 5a87c559f24b9f04782c10a2509fa050
+  - enabled: 1
+    path: Assets/Scenes/Route4.unity
+    guid: 7bf4801757d2bad4aa653e1456f64e00
+  - enabled: 1
+    path: Assets/Scenes/Town2.unity
+    guid: da495d27613d5bb40a02ff40cb12dd9b
+  - enabled: 1
+    path: Assets/Scenes/HouseBase.unity
+    guid: 60d75fcd3f69b8a47ad15d9c787987d8
+  - enabled: 1
+    path: Assets/Scenes/Route2.unity
+    guid: f6d54ade49d8d8e40992c3afa2774dd4
+  - enabled: 1
+    path: Assets/Scenes/Town3.unity
+    guid: 645300a0f652c304181afcbb4936f8dd
+  - enabled: 1
+    path: Assets/Scenes/Town3B.unity
+    guid: 72a064ff96f152245a1c182bbb3ac57e
+  - enabled: 1
+    path: Assets/Scenes/Town2B.unity
+    guid: 540a21c0add28bb45bbb606c38de5c4c
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: b0fc6e32f3b09404a9cf38a0e664c405, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 593a43260de962a458a034ba78a3bb3f, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: c36706d9653db1b4fb7bdd3fbea4afea, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 99b9f6096f303de45b42d571294f8782, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bfdb32d047bc6634da1c528fa15d54a3, type: 2}
+  m_UseUCBPForAssetBundles: 0

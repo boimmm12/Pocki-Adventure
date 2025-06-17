@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 41e4220584e5b1d419d71c2274749dbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6115183053022180023
+    second: Manceng_0
+  - first:
+      213: -6521599395260313450
+    second: Manceng_1
+  - first:
+      213: 5121194982160506201
+    second: Manceng_2
+  - first:
+      213: -7995068434374588428
+    second: Manceng_3
+  - first:
+      213: 2234907208891440773
+    second: Manceng_4
+  - first:
+      213: 6730216805314066272
+    second: Manceng_5
+  - first:
+      213: -9127564053549200975
+    second: Manceng_6
+  - first:
+      213: 4303947541056384434
+    second: Manceng_7
+  - first:
+      213: -451651059090450645
+    second: Manceng_8
+  - first:
+      213: -5935969763808885596
+    second: Manceng_9
+  - first:
+      213: 7976323272045194331
+    second: Manceng_10
+  - first:
+      213: -6470989554493013448
+    second: Manceng_11
+  - first:
+      213: -7887696002103385535
+    second: Manceng_12
+  - first:
+      213: 4451117734699206475
+    second: Manceng_13
+  - first:
+      213: -2498005037553701321
+    second: Manceng_14
+  - first:
+      213: -1624116490050809763
+    second: Manceng_15
+  - first:
+      213: -8875616890752089444
+    second: Manceng_16
+  - first:
+      213: 6763393700779279391
+    second: Manceng_17
+  - first:
+      213: -7564508929163406562
+    second: Manceng_18
+  - first:
+      213: -6921458456363610751
+    second: Manceng_19
+  - first:
+      213: -7519027441916034379
+    second: Manceng_20
+  - first:
+      213: -3133526168385949445
+    second: Manceng_21
+  - first:
+      213: 26423958877362450
+    second: Manceng_22
+  - first:
+      213: -7761278084265168146
+    second: Manceng_23
+  - first:
+      213: -3625529445334572658
+    second: Manceng_24
+  - first:
+      213: -4230131905207265329
+    second: Manceng_25
+  - first:
+      213: -3117041900117393712
+    second: Manceng_26
+  - first:
+      213: -5288426973793143509
+    second: Manceng_27
+  - first:
+      213: 8293877256911802228
+    second: Manceng_28
+  - first:
+      213: 3275921620735574800
+    second: Manceng_29
+  - first:
+      213: 760497257152553912
+    second: Manceng_30
+  - first:
+      213: -8530202273108650105
+    second: Manceng_31
+  - first:
+      213: -1866320088182672233
+    second: Manceng_32
+  - first:
+      213: 2139910659302718585
+    second: Manceng_33
+  - first:
+      213: -305243285765290812
+    second: Manceng_34
+  - first:
+      213: -1175857767321001954
+    second: Manceng_35
+  - first:
+      213: 6060097501208237727
+    second: Manceng_36
+  - first:
+      213: 7240959339551404058
+    second: Manceng_37
+  - first:
+      213: -1904502624588901845
+    second: Manceng_38
+  - first:
+      213: -7988045246091423952
+    second: Manceng_39
+  - first:
+      213: -5197831597303574151
+    second: Manceng_40
+  - first:
+      213: 8130426267385572925
+    second: Manceng_41
+  - first:
+      213: -3719402977798659748
+    second: Manceng_42
+  - first:
+      213: -1883089836761102561
+    second: Manceng_43
+  - first:
+      213: 7437373911478939025
+    second: Manceng_44
+  - first:
+      213: 4904293703544072369
+    second: Manceng_45
+  - first:
+      213: 3520485774435246338
+    second: Manceng_46
+  - first:
+      213: 9135495771409335779
+    second: Manceng_47
+  - first:
+      213: -8015220016012269020
+    second: Manceng_48
+  - first:
+      213: -6981091157899509173
+    second: Manceng_49
+  - first:
+      213: -5683422784180029616
+    second: Manceng_50
+  - first:
+      213: 8008196681720823720
+    second: Manceng_51
+  - first:
+      213: -5879418359593882001
+    second: Manceng_52
+  - first:
+      213: 633508165868098220
+    second: Manceng_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Manceng_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dcf14b961822ba0800000000000000
+      internalID: -6115183053022180023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 227
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6905b1627ef9e75a0800000000000000
+      internalID: -6521599395260313450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 227
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d9039f3b3221740800000000000000
+      internalID: 5121194982160506201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 227
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70a2e5e9fcb0190800000000000000
+      internalID: -7995068434374588428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 227
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e1fe3f34cf30f10800000000000000
+      internalID: 2234907208891440773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 227
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067fb16b688866d50800000000000000
+      internalID: 6730216805314066272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 227
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9439b6ad0645180800000000000000
+      internalID: -9127564053549200975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 227
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bde49c3c71babb30800000000000000
+      internalID: 4303947541056384434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b271c7431c96bb9f0800000000000000
+      internalID: -451651059090450645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a446be23f23f9da0800000000000000
+      internalID: -5935969763808885596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 195
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c6feb61c791be60800000000000000
+      internalID: 7976323272045194331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 195
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8324e23f84d6236a0800000000000000
+      internalID: -6470989554493013448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 195
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142eb52e646498290800000000000000
+      internalID: -7887696002103385535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 195
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4700362ffb85cd30800000000000000
+      internalID: 4451117734699206475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 195
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea97147ad455dd0800000000000000
+      internalID: -2498005037553701321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 195
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50daa048aaf579e0800000000000000
+      internalID: -1624116490050809763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 195
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92c340867973d480800000000000000
+      internalID: -8875616890752089444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 195
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f144013acb66cdd50800000000000000
+      internalID: 6763393700779279391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 195
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13d1f81537750790800000000000000
+      internalID: -7564508929163406562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dc2d4943a02ff90800000000000000
+      internalID: -6921458456363610751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 163
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b24e2c016c07a790800000000000000
+      internalID: -7519027441916034379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 163
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0f6fe4d8a7384d0800000000000000
+      internalID: -3133526168385949445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 163
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219d17a5370ed5000800000000000000
+      internalID: 26423958877362450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 163
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2b95014b66a4490800000000000000
+      internalID: -7761278084265168146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 163
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e812d18ad288fadc0800000000000000
+      internalID: -3625529445334572658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 163
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc71315c17d8b45c0800000000000000
+      internalID: -4230131905207265329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 163
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de7e7918ea0eb4d0800000000000000
+      internalID: -3117041900117393712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253776cfabbb96b0800000000000000
+      internalID: -5288426973793143509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f4bec1c65c91370800000000000000
+      internalID: 8293877256911802228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01347f38b59667d20800000000000000
+      internalID: 3275921620735574800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 131
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3ac31e934dd8a00800000000000000
+      internalID: 760497257152553912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 131
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78711214a32ae9980800000000000000
+      internalID: -8530202273108650105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79432ba94cf7916e0800000000000000
+      internalID: -1866320088182672233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c7fca286d72bd10800000000000000
+      internalID: 2139910659302718585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c403ed49de83cbf0800000000000000
+      internalID: -305243285765290812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 131
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10a27037938eafe0800000000000000
+      internalID: -1175857767321001954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96dfbfc19ac91450800000000000000
+      internalID: 6060097501208237727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 131
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a103203b72e0d7460800000000000000
+      internalID: 7240959339551404058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22549314f8d195e0800000000000000
+      internalID: -1904502624588901845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f09f0db23c42190800000000000000
+      internalID: -7988045246091423952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9715b6893b79dd7b0800000000000000
+      internalID: -5197831597303574151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 96
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ea5040d9315d070800000000000000
+      internalID: 8130426267385572925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e7cba2b6026cc0800000000000000
+      internalID: -3719402977798659748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 68
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17c4bf35cbedd5e0800000000000000
+      internalID: -1883089836761102561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da577ea2cd63760800000000000000
+      internalID: 7437373911478939025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 67
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8ede9a32d8f0440800000000000000
+      internalID: 4904293703544072369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 35
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2016706d8274bd030800000000000000
+      internalID: 3520485774435246338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5cfed800dc7ce70800000000000000
+      internalID: 9135495771409335779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aecf4acd734c090800000000000000
+      internalID: -8015220016012269020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4287cc449e2e1f90800000000000000
+      internalID: -6981091157899509173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0577690071d6021b0800000000000000
+      internalID: -5683422784180029616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MancengRill
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af7e69e374d22f60800000000000000
+      internalID: 8008196681720823720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e2f76072c186ea0800000000000000
+      internalID: -5879418359593882001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Manceng_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca290e4025caac800800000000000000
+      internalID: 633508165868098220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f964a00a2633774f8743d57b0ac7e41
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MancengRill: 8008196681720823720
+      Manceng_0: -6115183053022180023
+      Manceng_1: -6521599395260313450
+      Manceng_10: 7976323272045194331
+      Manceng_11: -6470989554493013448
+      Manceng_12: -7887696002103385535
+      Manceng_13: 4451117734699206475
+      Manceng_14: -2498005037553701321
+      Manceng_15: -1624116490050809763
+      Manceng_16: -8875616890752089444
+      Manceng_17: 6763393700779279391
+      Manceng_18: -7564508929163406562
+      Manceng_19: -6921458456363610751
+      Manceng_2: 5121194982160506201
+      Manceng_20: -7519027441916034379
+      Manceng_21: -3133526168385949445
+      Manceng_22: 26423958877362450
+      Manceng_23: -7761278084265168146
+      Manceng_24: -3625529445334572658
+      Manceng_25: -4230131905207265329
+      Manceng_26: -3117041900117393712
+      Manceng_27: -5288426973793143509
+      Manceng_28: 8293877256911802228
+      Manceng_29: 3275921620735574800
+      Manceng_3: -7995068434374588428
+      Manceng_30: 760497257152553912
+      Manceng_31: -8530202273108650105
+      Manceng_32: -1866320088182672233
+      Manceng_33: 2139910659302718585
+      Manceng_34: -305243285765290812
+      Manceng_35: -1175857767321001954
+      Manceng_36: 6060097501208237727
+      Manceng_37: 7240959339551404058
+      Manceng_38: -1904502624588901845
+      Manceng_39: -7988045246091423952
+      Manceng_4: 2234907208891440773
+      Manceng_40: -5197831597303574151
+      Manceng_41: 8130426267385572925
+      Manceng_42: -3719402977798659748
+      Manceng_43: -1883089836761102561
+      Manceng_44: 7437373911478939025
+      Manceng_45: 4904293703544072369
+      Manceng_46: 3520485774435246338
+      Manceng_47: 9135495771409335779
+      Manceng_48: -8015220016012269020
+      Manceng_49: -6981091157899509173
+      Manceng_5: 6730216805314066272
+      Manceng_50: -5683422784180029616
+      Manceng_52: -5879418359593882001
+      Manceng_53: 633508165868098220
+      Manceng_6: -9127564053549200975
+      Manceng_7: 4303947541056384434
+      Manceng_8: -451651059090450645
+      Manceng_9: -5935969763808885596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

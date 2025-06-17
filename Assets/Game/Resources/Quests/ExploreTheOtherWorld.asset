@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fed6aa5a401a8349b687d1d1687f4a0, type: 3}
+  m_Name: ExploreTheOtherWorld
+  m_EditorClassIdentifier: 
+  name: Explore The Other World
+  description: 
+  startDialogue:
+    lines: []
+  inProgressDialogue:
+    lines: []
+  completedDialogue:
+    lines:
+    - I have research this thing for the last 3 years
+    - I guess there is other world, like fully different from our world
+    - And there is some kind of pocki too there
+    - Take this device, you can peek to the other side
+  startItem: {fileID: 0}
+  startItemCount: 1
+  requiredItems: []
+  requiredItemCounts: 
+  rewardItems:
+  - {fileID: 11400000, guid: e70399399c8ce684aa7603f41b7274f1, type: 2}
+  rewardItemCounts: 01000000
+  rewardMoney: 0
+  rewardPokemonChoices: []
+  rewardPokemonLevel: 5

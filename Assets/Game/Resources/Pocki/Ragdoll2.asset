@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: Ragdoll2
+  m_EditorClassIdentifier: 
+  name: Rylaith
+  description: 
+  frontSprite: {fileID: 1595344864481893341, guid: 4b5d5c625a0cec94ba8ae180ba891a17, type: 3}
+  backSprite: {fileID: 1467195956135128136, guid: 54ba230a2f6cc97459abba64423ddc63, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 60
+  attack: 130
+  defense: 80
+  spAttack: 60
+  spDefense: 60
+  speed: 70
+  expYield: 165
+  growthRate: 4
+  catchRate: 90
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 04fa5972d9c73ab4b82ab56721aa94ef, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 21cf0884eac64e047a60d5ce59aa1a44, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 46cdbf147a9b8e843b87f6e6352d53da, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 3454f5b4cd4084a4fb50fd7e91a10e01, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: d13c54891f1389749b32a109fda7e3e1, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: b6cfd28b923b18a46b465c0d67e41c79, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: b66cf91142580a64fba8f2e008234979, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: ef78e723f70a8cb419de0af32d245cb5, type: 2}
+    level: 15
+  learnableByItems:
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  - {fileID: 11400000, guid: 1f57225f05d64a9458af4306e6d0edf2, type: 2}
+  - {fileID: 11400000, guid: 1675381d8ff691e4ab4f3cdfefca8a14, type: 2}
+  evolutions: []

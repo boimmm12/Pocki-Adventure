@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: Sphynx
+  m_EditorClassIdentifier: 
+  name: Shuri
+  description: 
+  frontSprite: {fileID: 3161719471721799383, guid: 0712a128ce285854ebafd69c5db9839f, type: 3}
+  backSprite: {fileID: -2128577421030598974, guid: b4d9f2ad26bc3db47a1d9d9399351b1b, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 50
+  attack: 65
+  defense: 45
+  spAttack: 85
+  spDefense: 65
+  speed: 95
+  expYield: 142
+  growthRate: 2
+  catchRate: 45
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: a45027c9f95b43246aa7d06894144b6e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 914f878e72fb69541a6295da482105c2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 32d3632fdd8b9ff4db7e607f3513b790, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 391a36c226fbc9c4c8301e5753621fa0, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: a4dea5282e1907447afd0a0046794b1b, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: b06bbd2189166754a9805e917ffb0e38, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: cdb906eb222363c4eab72e34ce38d340, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: fc8913d49dc7313459f2aa6625bbc286, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 3d8d497a7689dd44ebb884b8d370dbd0, type: 2}
+    level: 17
+  learnableByItems:
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  - {fileID: 11400000, guid: 1f57225f05d64a9458af4306e6d0edf2, type: 2}
+  - {fileID: 11400000, guid: 6e5afe480fe31e54f890f9b3cd94dee9, type: 2}
+  - {fileID: 11400000, guid: c054c11d6d4117b45bc18ddf815072ee, type: 2}
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 59760f734a2a8fa4bbf847da4294a5e8, type: 2}
+    requiredLevel: 16
+    requiredItem: {fileID: 11400000, guid: 2950431631f8e8a4c858c4795b86ab82, type: 2}
+    evolutionType: 2
+    dominantTypeForEvolution: 0

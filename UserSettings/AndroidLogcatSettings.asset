@@ -1,0 +1,527 @@
+{
+    "m_SelectedDeviceId": "RRCW3016WLM",
+    "m_SelectedProcess": {
+        "deviceId": "RRCW3016WLM",
+        "name": "com.GugugagaStudio.PockiAdventure",
+        "processId": 21801,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownProcessesForSerialization": [
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 8087,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 10295,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 12067,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 15577,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 19675,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 463,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 12350,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 13190,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 25169,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 32466,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 5874,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 15549,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 17545,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 23840,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 26662,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 29720,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 31624,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 32604,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 5224,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 8796,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 32140,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 12355,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 23725,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 32118,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 11460,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 21252,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 29560,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 13936,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 16623,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 27356,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 31371,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 7317,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 9677,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 11733,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 19351,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 22976,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 25933,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 29065,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 30394,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 4105,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 8060,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 10505,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 11242,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 15814,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 18030,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 19834,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 19841,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 26989,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 32622,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 4359,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 30213,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 6630,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 7951,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 8649,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 32372,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 9594,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 10979,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 11568,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 5370,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 9519,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 12238,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 13988,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 15660,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 16256,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 19985,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.SabungPocki",
+            "processId": 6678,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.PockiAdventure",
+            "processId": 7631,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.PockiAdventure",
+            "processId": 9230,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.PockiAdventure",
+            "processId": 9823,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.PockiAdventure",
+            "processId": 13135,
+            "exited": false
+        },
+        {
+            "deviceId": "RRCW3016WLM",
+            "name": "com.GugugagaStudio.PockiAdventure",
+            "processId": 21801,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "AutoCapture": true
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_ScreenCaptureSettings": {
+        "Mode": 0,
+        "m_LastSaveLocation": [
+            "F:\\GUNDAR\\.Semester 8\\Project Skripsi\\Pokemon",
+            "F:\\GUNDAR\\.Semester 8\\Project Skripsi\\Pokemon"
+        ]
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 2
+}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: E-Mau
+  m_EditorClassIdentifier: 
+  name: Aazwrath
+  description: 
+  frontSprite: {fileID: 3329416288936522453, guid: 2dfb2a140e92c0248b4b9658b18d14b9, type: 3}
+  backSprite: {fileID: -8314945201404875456, guid: cbe743518f81fd847b80df7270d09921, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 41
+  attack: 56
+  defense: 40
+  spAttack: 62
+  spDefense: 44
+  speed: 71
+  expYield: 63
+  growthRate: 2
+  catchRate: 45
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 086a252686dd8bb4582fa187873e9ead, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 33cf94e9673f40945956284db3430d19, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9b69af325518cea4a8ea3402b70fe0c8, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: a3823169f1c34424086178908d8e3088, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: af6e26b44f829954980be76f10a24a53, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 520ce312a0a19984fb952611217f44c6, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 33c68b703eecb2d478389ed27473967b, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 33c55b21410f6724fa826c54d74d2eed, type: 2}
+    level: 15
+  - moveBase: {fileID: 11400000, guid: 58fe5f69b17024d47a2a5e671f027d44, type: 2}
+    level: 17
+  learnableByItems:
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  - {fileID: 11400000, guid: 6e5afe480fe31e54f890f9b3cd94dee9, type: 2}
+  evolutions:
+  - evolvesInto: {fileID: 11400000, guid: 8cd1cdaf3dcdbba41950c65c4b4e1f69, type: 2}
+    requiredLevel: 18
+    requiredItem: {fileID: 0}
+    evolutionType: 0
+    dominantTypeForEvolution: 0

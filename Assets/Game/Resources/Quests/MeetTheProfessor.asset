@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fed6aa5a401a8349b687d1d1687f4a0, type: 3}
+  m_Name: MeetTheProfessor
+  m_EditorClassIdentifier: 
+  name: MeetTheProfessor
+  description: 
+  startDialogue:
+    lines: []
+  inProgressDialogue:
+    lines: []
+  completedDialogue:
+    lines:
+    - Welcome to this place
+    - You need a starter pocki
+  startItem: {fileID: 0}
+  startItemCount: 1
+  requiredItems: []
+  requiredItemCounts: 
+  rewardItems: []
+  rewardItemCounts: 
+  rewardMoney: 0
+  rewardPokemonChoices:
+  - {fileID: 11400000, guid: 3ac1200457e633447ba3e36c1180b2d2, type: 2}
+  - {fileID: 11400000, guid: 2195de89d1860e54c8c5daf6fb1dcf16, type: 2}
+  - {fileID: 11400000, guid: 87b05bb14c05422468c45facf8740317, type: 2}
+  rewardPokemonLevel: 1

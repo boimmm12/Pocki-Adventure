@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: Mouse2
+  m_EditorClassIdentifier: 
+  name: Nuts
+  description: 
+  frontSprite: {fileID: 6110620732630754027, guid: b4a345b15edc28c4f80be74a3c32d5aa, type: 3}
+  backSprite: {fileID: -157314785271762687, guid: 2e1ead54803e326479115a68088e96b1, type: 3}
+  type1: 0
+  type2: 0
+  maxHp: 55
+  attack: 81
+  defense: 60
+  spAttack: 50
+  spDefense: 70
+  speed: 97
+  expYield: 116
+  growthRate: 1
+  catchRate: 127
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 086a252686dd8bb4582fa187873e9ead, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 21cf0884eac64e047a60d5ce59aa1a44, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a3823169f1c34424086178908d8e3088, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 33cf94e9673f40945956284db3430d19, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 47cefe9444217f040a807bcf86e00d09, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: 9118695f6e058c14b90103cf57c488b3, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 914f878e72fb69541a6295da482105c2, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: fb7769396ef486445a8be0489a24ec28, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: 7a766f98e997c554ca32b3039b195d3d, type: 2}
+    level: 15
+  learnableByItems:
+  - {fileID: 11400000, guid: 504bac50260e7174d838db53ac7f6e60, type: 2}
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  - {fileID: 11400000, guid: 32ccd7f51d5e73740ab9cce9f4587990, type: 2}
+  evolutions: []

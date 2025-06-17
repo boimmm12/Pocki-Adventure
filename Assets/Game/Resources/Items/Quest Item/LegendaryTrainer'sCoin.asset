@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9b115803f18a294796bca28a45084e8, type: 3}
+  m_Name: LegendaryTrainer'sCoin
+  m_EditorClassIdentifier: 
+  name: Legendary Trainer's Coin
+  description: Property of Hueco Mundo
+  questDescription: Trade this for enormous reward
+  icon: {fileID: -382467666205571427, guid: 8d8f91e89aca12544bcd50a4bbaa6593, type: 3}
+  price: 0
+  isSellable: 0

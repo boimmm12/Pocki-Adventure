@@ -1,0 +1,23 @@
+# ninja log v5
+49	2227	7676486983927915	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	967b9bd388fa095e
+91	730	7676486968814186	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	355ca2bdf6ef83e0
+64	1767	7676486979170013	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6b0b74a7d222f7bd
+11	1622	7676486977862461	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b6df70f8f42b94df
+86	1776	7676486979345712	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4366df6ba3537a3d
+74	1654	7676486978159059	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	19fe9553783500cc
+41	1964	7676486981287090	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fbd7eb86765a1048
+56	1768	7676486978974079	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d558b05214f00789
+730	1373	7676486974778621	F:/GUNDAR/.Semester 8/Project Skripsi/Pokemon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/476v6s65/obj/arm64-v8a/libswappywrapper.so	6ce96af36e80542f
+80	2097	7676486982491866	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	392c1958efa22652
+2228	2447	7676486986265828	F:/GUNDAR/.Semester 8/Project Skripsi/Pokemon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/476v6s65/obj/arm64-v8a/libgame.so	a0d39fa8efb6dbb3
+46	321	7692897867133837	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	355ca2bdf6ef83e0
+322	615	7692897870142868	F:/GUNDAR/.Semester 8/Project Skripsi/Pokemon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/476v6s65/obj/arm64-v8a/libswappywrapper.so	6ce96af36e80542f
+23	1129	7692897875041783	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6b0b74a7d222f7bd
+18	1138	7692897875102186	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b6df70f8f42b94df
+35	1210	7692897875896720	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	19fe9553783500cc
+14	1223	7692897876112644	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d558b05214f00789
+40	1261	7692897876505230	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4366df6ba3537a3d
+4	1312	7692897877018387	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fbd7eb86765a1048
+29	1477	7692897878582774	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	392c1958efa22652
+9	1583	7692897879633068	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	967b9bd388fa095e
+1583	1826	7692897882187036	F:/GUNDAR/.Semester 8/Project Skripsi/Pokemon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/476v6s65/obj/arm64-v8a/libgame.so	a0d39fa8efb6dbb3

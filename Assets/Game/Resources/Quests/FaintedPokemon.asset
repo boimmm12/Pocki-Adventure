@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fed6aa5a401a8349b687d1d1687f4a0, type: 3}
+  m_Name: FaintedPokemon
+  m_EditorClassIdentifier: 
+  name: FaintedPokemon
+  description: You need to find a revive item somewhere around here, and give it
+    back to the cat person
+  startDialogue:
+    lines:
+    - My pocki has fainted
+    - Can you bring me a revive item?
+  inProgressDialogue:
+    lines:
+    - Please sir, give me revive item
+  completedDialogue:
+    lines:
+    - Oh you got it! ty sir, you save my pocki
+    - You can have this item
+  startItem: {fileID: 0}
+  startItemCount: 1
+  requiredItems:
+  - {fileID: 11400000, guid: 22a275fc05b44584c9468f176359789d, type: 2}
+  requiredItemCounts: 01000000
+  rewardItems:
+  - {fileID: 11400000, guid: fd5d4c026df2dba4ea0937a3ae0c7e12, type: 2}
+  rewardItemCounts: 03000000
+  rewardMoney: 750
+  rewardPokemonChoices: []
+  rewardPokemonLevel: 5

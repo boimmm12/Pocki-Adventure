@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 516548ea6b4364d479a4954394e68c89, type: 3}
+  m_Name: Woman
+  m_EditorClassIdentifier: 
+  idleDown: {fileID: 9100710771887728577, guid: 8d4d853dbc772dd4fa0f59da4dd0a5be, type: 3}
+  presetname: Erine
+  specialNote: 
+  specialErrorBlank: Give us your name, so we know how to call you please
+  specialErrorLong: Not that long, what do you think i am ? Eminem ?
+  walkDownSprites:
+  - {fileID: 7633393069683378240, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: -327148086032680141, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: 54351731969517290, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: 3491715673617810204, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  walkUpSprites:
+  - {fileID: 7255071514692523641, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: 6457923684518083037, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: 7946286309174253910, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: -3663897860429112167, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  walkRightSprites:
+  - {fileID: -8267788370620764885, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: -5867232758858687436, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: 7224553793879354117, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: -5543547081530669534, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  walkLeftSprites:
+  - {fileID: -2241423520759647734, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: -7369331317299596660, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: 763836953011390383, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  - {fileID: -5668791015952726771, guid: e108689325b1f0146b055ff8a598db55, type: 3}
+  battleSprite: {fileID: 5607302010678801072, guid: b2a671afc841a8247b7bc5c87a4fdee6, type: 3}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 516548ea6b4364d479a4954394e68c89, type: 3}
+  m_Name: A
+  m_EditorClassIdentifier: 
+  idleDown: {fileID: 3745430538504548685, guid: d6c0d7c9880c0ed499b27339da645d4f, type: 3}
+  presetname: Little Hard
+  specialNote: Little bit hard, but not affecting any of the game aspect, only something
+    in life.
+  specialErrorBlank: Please identify yourself sir
+  specialErrorLong: We cant pronounce that uvuvwevwevwe
+  walkDownSprites:
+  - {fileID: -6585815981495670187, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: 4617048215360457621, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: -1640375023523200942, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: 5187916180372718013, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  walkUpSprites:
+  - {fileID: -6653656097454353926, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: -2336880326082153625, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: 1257644136822214651, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: -251140507266354929, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  walkRightSprites:
+  - {fileID: 5793168339649309366, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: 7057818177792272670, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: 5769537098535049344, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: -3217903686573029436, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  walkLeftSprites:
+  - {fileID: -6101996081626256770, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: 5752064157653795337, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: 4840828207415590763, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  - {fileID: 7721443957997318971, guid: 74b0f14d1e1425646be8fdc69491a119, type: 3}
+  battleSprite: {fileID: 5607302010678801072, guid: b2a671afc841a8247b7bc5c87a4fdee6, type: 3}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 756c2839d1f27f24997bdb0ef055e36d, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: 
+  name: Blukutuk
+  description: 
+  frontSprite: {fileID: 6845106896470202799, guid: 7d7da0f57d7e4524690c8cba9a0f6df3, type: 3}
+  backSprite: {fileID: 6845106896470202799, guid: 7d7da0f57d7e4524690c8cba9a0f6df3, type: 3}
+  type1: 0
+  type2: 0
+  maxHp: 39
+  attack: 48
+  defense: 45
+  spAttack: 60
+  spDefense: 55
+  speed: 60
+  expYield: 65
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c1ed99e65b9951e4e875f2a04183e94d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 21cf0884eac64e047a60d5ce59aa1a44, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b6cfd28b923b18a46b465c0d67e41c79, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: 22544e4e9d714074abda07a9ddd0c1ee, type: 2}
+    level: 6
+  - moveBase: {fileID: 11400000, guid: d8df61f0eedf1a14dad23f32f5f57490, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: af6e26b44f829954980be76f10a24a53, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: b39b50774d3114748ab43e541fd32cd8, type: 2}
+    level: 12
+  - moveBase: {fileID: 11400000, guid: a4dea5282e1907447afd0a0046794b1b, type: 2}
+    level: 15
+  learnableByItems:
+  - {fileID: 11400000, guid: 504bac50260e7174d838db53ac7f6e60, type: 2}
+  - {fileID: 11400000, guid: 1c0efc2b9856e794abd421cc24aed857, type: 2}
+  evolutions: []

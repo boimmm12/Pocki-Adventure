@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fed6aa5a401a8349b687d1d1687f4a0, type: 3}
+  m_Name: DefeatLegendaryTrainers
+  m_EditorClassIdentifier: 
+  name: Defeat Legendary Trainers
+  description: Defeat 3 legendary, they are around the ruins in every town
+  startDialogue:
+    lines:
+    - theres 3 trainers with rare pocki out there
+    - you need to defeat those 3 and take their coins
+    - i can give you amount of reward for it
+    - they are around the ruins in every town
+  inProgressDialogue:
+    lines:
+    - defeat those 3 first
+    - they are around the ruins in every town
+  completedDialogue:
+    lines:
+    - wow you really beat those guys
+    - here it is, your rewards
+  startItem: {fileID: 0}
+  startItemCount: 1
+  requiredItems:
+  - {fileID: 11400000, guid: 447cce0234df97f45b524fb67c696cc7, type: 2}
+  requiredItemCounts: 03000000
+  rewardItems:
+  - {fileID: 11400000, guid: 2950431631f8e8a4c858c4795b86ab82, type: 2}
+  rewardItemCounts: 01000000
+  rewardMoney: 50000
