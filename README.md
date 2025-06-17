@@ -53,11 +53,11 @@ Kamu bisa download file APK di sini:
 
 ## ✨ Fitur yang Akan Dikembangkan
 
-- Menambah level baru
+- Menambah pocki baru
 
-- Menambah musuh dengan AI sederhana
+- Menambah dan memperbagus model recognition
 
-- Menambah sistem upgrade item
+- Menambah quest
 
 ## 👤 Developer
 
