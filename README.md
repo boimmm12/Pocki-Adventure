@@ -1,6 +1,6 @@
 ## 📂 Pocki Adventure
 
-Sebuah game 2D yang saya kembangkan menggunakan Unity. Game ini menghadirkan pengalaman petualangan seru dengan elemen eksplorasi dan fitur image recognition dengan model CNN. Game ini memungkinkan pemain untuk berpetualang didalam dan diluar game.
+Sebuah game 2D Android yang saya kembangkan menggunakan Unity. Game ini menghadirkan pengalaman petualangan seru dengan elemen eksplorasi dan fitur image recognition dengan model CNN. Game ini memungkinkan pemain untuk berpetualang didalam dan diluar game.
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C%23-239120?logo=c-sharp&logoColor=white)
@@ -39,7 +39,7 @@ Project ini hanya untuk keperluan portfolio dan pengerjaan skripsi. Semua aset v
 
 ## 📦 Build APK
 
-Kamu bisa download file APK di sini:
+Kamu bisa download file APK untuk dimainkan di Android di sini:
 
 👉 [Download APK](https://drive.google.com/file/d/1VjazI2qUE5rQpCAhTY0f2bvYvrNZdeOD/view?usp=sharing)
 
