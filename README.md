@@ -43,6 +43,11 @@ Kamu bisa download file APK di sini:
 
 👉 [Download APK](https://drive.google.com/file/d/1VjazI2qUE5rQpCAhTY0f2bvYvrNZdeOD/view?usp=sharing)
 
+## 🎮 Play the Game
+
+👉 [Click here to play Pocki Adventure on Itch.io](https://boimmm12.itch.io/pocki-adventure)
+
+
 ## 📷 Screenshot
 
 ![image](https://github.com/user-attachments/assets/2cb5d630-b0a6-4f1e-bc41-cc8c86574531)
